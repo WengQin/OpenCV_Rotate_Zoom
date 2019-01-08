@@ -1,0 +1,4 @@
+﻿  Source.cpp
+e:\onedrive - smail.shnu.edu.cn\personal\study\git\opencvtest\source.cpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  OpencvTest.vcxproj -> E:\OneDrive - smail.shnu.edu.cn\Personal\Study\Git\OpencvTest\Debug\OpencvTest.exe
+  OpencvTest.vcxproj -> E:\OneDrive - smail.shnu.edu.cn\Personal\Study\Git\OpencvTest\Debug\OpencvTest.pdb (Full PDB)
